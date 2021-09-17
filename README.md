@@ -12,9 +12,13 @@ Best suited for two to four players.
 2. Alternate choosing players, make sure to do your reasearch https://thegreatbritishbakeoff.co.uk/
 3. First person you draft is your "captain." All other draftees are equal.
 4. Feel free to use [this template](https://docs.google.com/spreadsheets/d/1P__zc4jc638WBl_MPb1T2o05ou97sRpo7Os7VMjWFNc/edit?usp=sharing) to track your team and scores. 
+5. For 2 or 3 players, we recommend only drafting 3 contestants each, then using redraft rules below.
+
+## Re-Draft
+After each elimination, players may swap one of their contestants with an available contestant. The first player who gets the opption to do so is the one who had a contestant eliminated. Remaining players may then swap from lowest to highest total score.
 
 ## Scoring
-Prior to each episode you can choose a new captain for that episode. Feel free to score during while watching, results are also posted to the wikipedia page https://en.wikipedia.org/wiki/The_Great_British_Bake_Off
+Prior to each episode you can choose a new captain for that episode. Feel free to score during while watching.
 
 ### Signature Challenge
 | Points | Description |
@@ -22,6 +26,10 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | +1 | Every occurance of "Nice Job!" |
 | -2 | Soggy Bottom! |
+| -1 | Contestant is negatively reviewed for something the judges warned them about |
+| +1 | Contestant is positively reviewed for something the judges warned them about |
+| +2 | Confessional segment for a positive reason after the challenge |
+| -2 | Confessional segment for a negative reason after the challenge |
 
 ### Technical Challenge
 | Points | Description |
