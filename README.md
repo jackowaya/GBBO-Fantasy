@@ -78,6 +78,7 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | -1 | Caramel fail. |
 | -3 | Two or more consecutive caramel fails. |
 | -2 | Contestant presents something the judges will not eat due to food safety |
+| +1 | Contestant helps another contestant |
 
 
 
