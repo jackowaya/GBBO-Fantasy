@@ -40,6 +40,7 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | +1 | Extra point if captain places in top three. |
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | -2 | Soggy Bottom! |
+
 We do not score confsessional interviews in the Technical Challenge round because we feel it is already worth enough points.
 
 ### Showstopper Challenge
@@ -51,6 +52,7 @@ We do not score confsessional interviews in the Technical Challenge round becaus
 | +1 | Confessional segment for a positive reason after the challenge and before the star baker reveal |
 | -1 | Confessional segment for a negative reason after the challenge and before the star baker reveal |
 | -4 | Contestant drops or showstopper falls apart when walking to the gingham alter. |
+
 We only count confessional interviews before the star baker reveal because otherwise the star baker would always get 2 extra points, since they get an extra segment at the end..
 
 ### Star Baker
