@@ -24,7 +24,7 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | Points | Description |
 | --- | --- |
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
-| +1 | Every occurance of "Nice Job!" |
+| +1 | Every occurrence of "Nice Job!" |
 | -2 | Soggy Bottom! |
 | -1 | Contestant is negatively reviewed for something the judges warned them about |
 | +1 | Contestant is positively reviewed for something the judges warned them about |
