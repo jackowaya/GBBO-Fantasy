@@ -93,3 +93,6 @@ contestant who uses that ingredient in the signature or showstopper earns one po
 These ingredients are intended to be anything other than staples. Chocolate or raspberry
 would be acceptable picks, while butter (which might be used to target against a vegan baker)
 or sugar would not.
+For scoring, it has to be clear a baker used the ingredient. This is another reason to choose
+flavorings - they are almost always mentioned explicitly, whereas even a somewhat uncommon staple
+like an unusual sugar may not be.
