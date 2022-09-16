@@ -6,7 +6,8 @@ How to play The Great British Bake Off Fantasy League: draft a team and get poin
 
 ## Number Of Players
 Best suited for two to four players. With more players you may want to allow each contestant to
-be selected by more than one player.
+be selected by more than one player or make all players drop down to one contestant once a player
+has no contestants left..
 
 ## Draft
 1. Flip a [Hob-nob](https://en.wikipedia.org/wiki/Hobnob_biscuit) to decide who drafts first.
@@ -66,7 +67,7 @@ We only count confessional interviews before the star baker reveal because other
 | Points | Description |
 | --- | --- |
 | +2 | Team member wins final. |
-| +8 | Captain wins final. |
+| +6 | Captain wins final. |
 
 ## Potpourri Scoring
 | Points | Description |
@@ -88,7 +89,7 @@ We only count confessional interviews before the star baker reveal because other
 
 
 ## Ingredient Scoring
-Each week, each player may choose an ingredient to use for ingredient scoring. When a
+Each week, each player may choose an ingredient to use for ingredient scoring. Any
 contestant who uses that ingredient in the signature or showstopper earns one point.
 These ingredients are intended to be anything other than staples. Chocolate or raspberry
 would be acceptable picks, while butter (which might be used to target against a vegan baker)
@@ -96,3 +97,5 @@ or sugar would not.
 For scoring, it has to be clear a baker used the ingredient. This is another reason to choose
 flavorings - they are almost always mentioned explicitly, whereas even a somewhat uncommon staple
 like an unusual sugar may not be.
+You can also use this as a catch up method, by having only the player(s) in last place select
+the ingredient that will score points that week.
