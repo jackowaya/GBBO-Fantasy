@@ -15,12 +15,13 @@ has no contestants left..
 3. First person you draft is your "captain." All other draftees are equal.
 4. Feel free to use [this template](https://docs.google.com/spreadsheets/d/1P__zc4jc638WBl_MPb1T2o05ou97sRpo7Os7VMjWFNc/edit?usp=sharing) to track your team and scores. 
 5. For 2 or 3 players, we recommend only drafting 3 contestants each, then using redraft rules below.
+6. For 5 or more players, we recommend making multiple copies of each contestant. Two copies worked well for 5 players.
 
 ## Re-Draft
-After each elimination, players may swap one of their contestants with an available contestant. The first player who gets the opption to do so is the one who had a contestant eliminated. Remaining players may then swap from lowest to highest total score.
+After each elimination, players may swap one of their contestants with an available contestant. The first player who gets the opption to do so is the one who had a contestant eliminated. Remaining players may then swap members of their team with available contestants from lowest to highest total score.
 
 ## Scoring
-Prior to each episode you can choose a new captain for that episode. Feel free to score during while watching.
+Prior to each episode you can choose a new captain for that episode. Feel free to score while watching.
 
 ### Signature Challenge
 | Points | Description |
