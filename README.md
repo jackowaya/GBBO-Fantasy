@@ -26,7 +26,6 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | Points | Description |
 | --- | --- |
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
-| +1 | Every occurrence of "Nice Job!" |
 | -2 | Soggy Bottom! |
 | -1 | Contestant is negatively reviewed for something the judges warned them about |
 | +1 | Contestant is positively reviewed for something the judges warned them about |
@@ -89,7 +88,7 @@ We only count confessional interviews before the star baker reveal because other
 
 
 ## Ingredient Scoring
-Each week, each player may choose an ingredient to use for ingredient scoring. Any
+Each week, a player (rotate who) may choose an ingredient to use for ingredient scoring. Any
 contestant who uses that ingredient in the signature or showstopper earns one point.
 These ingredients are intended to be anything other than staples. Chocolate or raspberry
 would be acceptable picks, while butter (which might be used to target against a vegan baker)
