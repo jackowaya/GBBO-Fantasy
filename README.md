@@ -14,11 +14,16 @@ has no contestants left..
 2. Alternate choosing players, make sure to do your reasearch https://thegreatbritishbakeoff.co.uk/
 3. First person you draft is your "captain." All other draftees are equal.
 4. Feel free to use [this template](https://docs.google.com/spreadsheets/d/1P__zc4jc638WBl_MPb1T2o05ou97sRpo7Os7VMjWFNc/edit?usp=sharing) to track your team and scores. 
-5. For 2 or 3 players, we recommend only drafting 3 contestants each, then using redraft rules below.
-6. For 5 or more players, we recommend making multiple copies of each contestant. Two copies worked well for 5 players.
+5. For 2 or 3 players, we recommend only drafting 3 contestants each.
+6. For 4 or 5 players, we recommend drafting 2 contestants each.
+7. For 6 or more players, we recommend making multiple copies of each contestant. Two copies worked well for 6 players.
 
 ## Re-Draft
-After each elimination, players may swap one of their contestants with an available contestant. The first player who gets the opption to do so is the one who had a contestant eliminated. Remaining players may then swap members of their team with available contestants from lowest to highest total score.
+After each elimination, players may swap one of their contestants with an available contestant. The first player who gets the option to do so is the one who had a contestant eliminated. Remaining players may then swap members of their team with available contestants from lowest to highest total score. If two contestants are eliminated, the player with the lowest total score chooses a replacement first.
+
+To balance the team sizes, we recommend forcing teams to drop down to the same size when it is no longer possible for all teams to have the same number of players. For example, if 5 players have 2 contestants each, when enough contestants are eliminated so that there are only 9, all teams would drop down to a single contestant.
+
+After contestants are dropped or sent home, and the players who lost them have an opportunity to pick up new ones, we allow an opportunity for all other teams to swap for the dropped contestants, in order of total points.
 
 ## Scoring
 Prior to each episode you can choose a new captain for that episode. Feel free to score while watching.
