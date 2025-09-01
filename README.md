@@ -11,7 +11,7 @@ has no contestants left..
 
 ## Draft
 1. Flip a [Hob-nob](https://en.wikipedia.org/wiki/Hobnob_biscuit) to decide who drafts first.
-2. Alternate choosing players, make sure to do your reasearch https://thegreatbritishbakeoff.co.uk/
+2. Alternate choosing players, make sure to do your reasearch https://thegreatbritishbakeoff.co.uk/ - we generally do a snake draft.
 3. First person you draft is your "captain." All other draftees are equal.
 4. Feel free to use [this template](https://docs.google.com/spreadsheets/d/1P__zc4jc638WBl_MPb1T2o05ou97sRpo7Os7VMjWFNc/edit?usp=sharing) to track your team and scores. 
 5. For 2 or 3 players, we recommend only drafting 3 contestants each.
@@ -54,7 +54,6 @@ We do not score confsessional interviews in the Technical Challenge round becaus
 | Points | Description |
 | --- | --- |
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
-| +1 | Paul or Prue say "wow" (1 point for each occurance) |
 | -2 | Soggy Bottom or Something is Undercooked |
 | +1 | Confessional segment for a positive reason after the challenge and before the star baker reveal |
 | -1 | Confessional segment for a negative reason after the challenge and before the star baker reveal |
@@ -91,6 +90,8 @@ We only count confessional interviews before the star baker reveal because other
 | -3 | Two or more consecutive caramel fails. |
 | -2 | Contestant presents something the judges will not eat due to food safety |
 | +1 | Contestant helps another contestant |
+| +0.5 | Contestant gets a handshake from one of the hosts other than Paul |
+| +1 | Contestant takes part in a time call |
 
 
 ## Ingredient Scoring
