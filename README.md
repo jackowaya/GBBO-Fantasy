@@ -28,6 +28,8 @@ After contestants are dropped or sent home, and the players who lost them have a
 ## Scoring
 Prior to each episode you can choose a new captain for that episode. Feel free to score while watching.
 
+To increase points per episode, we determine if each contestant's signature and showstopper are reviewed positively or negatively. In cases where the feedback is mixed or unclear we score 0 points. This is at our discretion while watching
+
 ### Signature Challenge
 | Points | Description |
 | --- | --- |
@@ -35,8 +37,8 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | -2 | Soggy Bottom! |
 | -1 | Contestant is negatively reviewed for something the judges warned them about |
 | +1 | Contestant is positively reviewed for something the judges warned them about |
-| +1 | Confessional segment for a positive reason after the challenge |
-| -1 | Confessional segment for a negative reason after the challenge |
+| +1 | Positive judges' feedback on the final bake |
+| -1 | Negative judges' feedback on the final bake |
 
 ### Technical Challenge
 | Points | Description |
@@ -48,18 +50,16 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | -2 | Soggy Bottom! |
 
-We do not score confsessional interviews in the Technical Challenge round because we feel it is already worth enough points.
+We do not score judges' feedback in the Technical Challenge round because we feel it is already worth enough points.
 
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | -2 | Soggy Bottom or Something is Undercooked |
-| +1 | Confessional segment for a positive reason after the challenge and before the star baker reveal |
-| -1 | Confessional segment for a negative reason after the challenge and before the star baker reveal |
+| +1 | Positive judges' feedback on the final bake |
+| -1 | Negative judges' feedback on the final bake |
 | -4 | Contestant drops or showstopper falls apart when walking to the gingham alter. |
-
-We only count confessional interviews before the star baker reveal because otherwise the star baker would always get 2 extra points, since they get an extra segment at the end..
 
 ### Star Baker
 | Points | Description |
